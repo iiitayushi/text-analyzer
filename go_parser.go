@@ -1,4 +1,4 @@
-package languages
+package main
 
 import (
 	"bufio"
