@@ -1,0 +1,14 @@
+# a demo yaml file 
+name: John Doe
+age: 30
+email: johndoe@example.com
+is_student: true
+hobbies:
+  - Reading
+  - Hiking
+  - Cooking
+address:
+  street: 123 Main St
+  city: Anytown
+  state: CA
+  zip: '12345'
