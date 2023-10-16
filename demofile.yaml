@@ -3,10 +3,12 @@ name: John Doe
 age: 30
 email: johndoe@example.com
 is_student: true
+# +copilot
 hobbies:
   - Reading
   - Hiking
   - Cooking
+# -copilot
 address:
   street: 123 Main St
   city: Anytown
